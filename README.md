@@ -74,7 +74,11 @@ python app.py
 
 Open `http://localhost:7860`. That's it.
 
-**My favorite choice** run it in Google Colab! Open [`tinypress_colab.ipynb`](./tinypress_colab.ipynb) — it installs dependencies, loads the models, and launches a public Gradio share URL. GPU runtime recommended for faster inference.
+**My favorite choice** You can directly use the notebook file [`tinypress_colab.ipynb`](./tinypress_colab.ipynb) and open it in your Google Colab.
+
+Or you can simply open [https://colab.research.google.com/github/SriharshaCR/tiny-press/blob/task/bootstrap/tinypress_colab.ipynb](https://colab.research.google.com/github/SriharshaCR/tiny-press/blob/task/bootstrap/tinypress_colab.ipynb)
+
+Google Colab makes it installs dependencies, loads the models, and launches a public Gradio share URL. GPU runtime recommended for faster inference.
 
 Optional environment overrides:
 
