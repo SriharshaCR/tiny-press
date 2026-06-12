@@ -38,9 +38,12 @@ Working inside a tight token budget is not a limitation to work around — it is
 
 ## Preview
 
+
+### Compression  
 ![Compression](./docs/TinyPress-Compression.png)
 
 
+### Comprasion
 ![Comprasion](./docs/TinyPress-Comparision.png)
 
 ---
@@ -71,7 +74,7 @@ python app.py
 
 Open `http://localhost:7860`. That's it.
 
-**Run it in Colab:** open `tinypress_colab.ipynb` — it installs dependencies, loads the models, and launches a public Gradio share URL. GPU runtime recommended for faster inference.
+**My favorite choice** run it in Google Colab! Open [`tinypress_colab.ipynb`](./tinypress_colab.ipynb) — it installs dependencies, loads the models, and launches a public Gradio share URL. GPU runtime recommended for faster inference.
 
 Optional environment overrides:
 
