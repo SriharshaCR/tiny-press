@@ -12,6 +12,11 @@ No cloud. No API bill. Two small models running quietly on your machine.
 
 [![TinyPress Demo](https://img.youtube.com/vi/hDbIDtjjiB0/0.jpg)](https://youtu.be/hDbIDtjjiB0)
 
+
+💻 Try @ https://huggingface.co/spaces/build-small-hackathon/tiny-press
+
+👩‍💻Notebook @ https://colab.research.google.com/github/SriharshaCR/tiny-press/blob/task/bootstrap/tinypress_colab.ipynb
+
 ---
 
 ## Why this fits Thousand Token Wood
