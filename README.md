@@ -62,6 +62,11 @@ All models are open-weight and under 32B. Everything runs locally — no API cal
 ## Get started
 
 ```bash
+
+git clone https://github.com/SriharshaCR/tiny-press.git
+
+cd tiny-press
+
 python -m venv .venv
 # Windows
 .venv\Scripts\activate
