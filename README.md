@@ -48,7 +48,7 @@ Working inside a tight token budget is not a limitation to work around — it is
 ![Compression](./docs/TinyPress-Compression.png)
 
 
-### Comprasion
+### Comparison
 ![Comprasion](./docs/TinyPress-Comparision.png)
 
 ---
